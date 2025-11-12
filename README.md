@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+Before you run this app make sure HotelRateBackend is running on localhost with port 3000
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
